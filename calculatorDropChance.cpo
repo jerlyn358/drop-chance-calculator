@@ -1,0 +1,7 @@
+ 2.) header.h
+
+#ifndef HEADER_H
+#define HEADER_H
+
+double calculatorDrop chance(double dropRate, int attempts);
+#endif
